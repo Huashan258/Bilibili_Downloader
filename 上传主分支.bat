@@ -7,5 +7,5 @@ set "day=%date:~8,2%"
 set "formatted_date=%year%-%month%-%day%"
 
 git commit -m "Upload file in %formatted_date%"
-git push origin latest -f
+git push origin main -f
 pause
