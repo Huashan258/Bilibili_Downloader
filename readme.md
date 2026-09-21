@@ -1,6 +1,10 @@
 # Bilibili Downloader
 
+A Bilibili downloader made in September 2026.
+
 一个简单的 B 站视频下载脚本，支持保存为 MP4、MP3，或同时保存两种格式。
+
+市面上的下载器在B站更新之后太难用了，下不了Festival中的东西了，所以我才自己做一个。
 
 ## 安装
 
